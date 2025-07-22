@@ -1,5 +1,5 @@
 const menuOptions = [
-  { name: "X-Salada", price: 30, vegan: false, src: "./assets/xsalada.jpeg" },
+  { name: "X-Salada", price: 30, vegan: false, src: "./assets/xsalada.png" },
 
   { name: "X-Bacon", price: 34, vegan: false, src: "./assets/xbacon.png" },
 
@@ -21,8 +21,8 @@ const menuOptions = [
 
   {
     name: "Monstruoso-Vegan",
-    price: 60,
-    vegan: false,
-    src: "./assets/monstruoso-vegan.png.png",
+    price: 45,
+    vegan: true,
+    src: "./assets/monstruoso-vegan.png",
   },
 ];
